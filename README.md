@@ -1,5 +1,9 @@
 #  TheSpyGod
 <br/>
+
+**`Software Engineering Student`**
+
+<p align="left"> I'm a passionate programmer and artist<p/>
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
